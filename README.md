@@ -26,7 +26,7 @@ This repository contains implementations of language models built from scratch u
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/MinGPT-from-scratch.git
+   git clone https://github.com/llinsenli/MinGPT.git
    cd MinGPT-from-scratch
    ```
 
